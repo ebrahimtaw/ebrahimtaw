@@ -5,7 +5,7 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/5f/35/c4/5f35c44225db7ff98c0aef9805e77ad2.gif"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRic3lndm44bWJ3M2hpeXdhbnFyMTRpbDBmdHhwbTRjYmhvOXlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif"/>
   
 ### 🧐 More About Me:
 

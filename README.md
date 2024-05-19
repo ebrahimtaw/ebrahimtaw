@@ -26,9 +26,6 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
 
 <br>
 
-
-
-
 </a>
 
 <br>

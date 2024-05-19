@@ -5,7 +5,7 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/5f/35/c4/5f35c44225db7ff98c0aef9805e77ad2.gif"/>
   
 ### 🧐 More About Me:
 

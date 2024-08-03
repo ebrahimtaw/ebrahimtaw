@@ -11,7 +11,7 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
 - 👨🏻‍💻 &nbsp; I’m currently learning programming for Data Science
 - 👨🏻‍💻 &nbsp; Most of my projects will be available on my GitHub repositories
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn] <a href='https://www.linkedin.com/in/ebrahim-tawfeeq-160022283'>
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]<a href='https://www.linkedin.com/in/ebrahim-tawfeeq-160022283'>
 
 <br>
 

@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Ebrahim Tawfeeq Abdulla
-<a href='www.linkedin.com/in/ebrahim-tawfeeq-160022283'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/ebrahim-tawfeeq-160022283'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+
 
 Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bachelor's degree in Data Science and Business Analytics. I'm passionate about using mathematics to solve problems and create innovative solutions. I also use Python and R to delve into data science and machine learning, along with continually investigating better approaches to tackle information for effective bits of knowledge.
 

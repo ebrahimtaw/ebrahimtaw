@@ -23,4 +23,4 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" height="42px"/></a>
 <br>
 
-### 🛠️ My Projects (will be available soon!)
+### 🛠️ My Projects are available in the repositories below!

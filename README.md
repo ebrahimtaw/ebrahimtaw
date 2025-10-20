@@ -7,7 +7,6 @@ Hi! I'm a student at UoL under the academic direction of the LSE, pursuing a Bac
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently a final year Data Science & Business Analytics university student
 - 👨🏻‍💻 &nbsp; I'm currently working on building AI applications
 - 👨🏻‍💻 &nbsp; Most of my projects will be available on my GitHub repositories
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ebrahim-tawfeeq-160022283)
